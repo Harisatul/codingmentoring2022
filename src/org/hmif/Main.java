@@ -67,7 +67,7 @@ public class Main {
 //        System.out.println(hasil3);
 
 
-//        System.out.print("Masukkan nilai :");
+        System.out.print("Masukkan nilai :");
 //        int nilai4 = scanner.nextInt();
 //        String hasil4;
 
